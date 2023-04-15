@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Shreya Mishra
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shreya Mishra
 =====================================================================================================================================
 
 * 🌍  I'm based in lucknow
@@ -6,8 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning Java, Web devlopment ,Html ,Css , jss ,javascript
 * 🤝  I'm open to collaborating on Interesting Project
 
-<a href="https://www.github.com/https://github.com/mishrashreya99" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/mishrashreya99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/mishrashreya99" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mishrashreya99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -26,19 +26,19 @@ src="https://img.shields.io/github/followers/https://github.com/mishrashreya99?l
 
 ### Socials
 
-<p align="left"> <a href="https://codesandbox.io/u/https://codesandbox.io/s/adoring-chatterjee-pscmz9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/https://www.profileme.dev/create-profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/https://github.com/mishrashreya99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/jobs/view/3566582499/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://codesandbox.io/u/https://codesandbox.io/s/adoring-chatterjee-pscmz9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/https://www.profileme.dev/create-profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/mishrashreya99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/jobs/view/3566582499/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/https://github.com/mishrashreya99"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/mishrashreya99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/mishrashreya99's GitHub stats" /></a>
+<a href="http://www.github.com/mishrashreya99"><img src="https://github-readme-stats.vercel.app/api?username=mishrashreya99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mishrashreya99's GitHub stats" /></a>
 
-<a href="http://www.github.com/https://github.com/mishrashreya99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/mishrashreya99&stroke=000000&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/mishrashreya99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrashreya99&stroke=000000&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/https://github.com/mishrashreya99"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/mishrashreya99&bg_color=1c1917&color=000000&line=0891b2&point=000000&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mishrashreya99"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mishrashreya99&bg_color=1c1917&color=000000&line=0891b2&point=000000&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/https://github.com/mishrashreya99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mishrashreya99&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mishrashreya99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrashreya99&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
