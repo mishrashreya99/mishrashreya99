@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in lucknow
 * ✉  You can contact me at [shmishra00111@gmail.com](mailto:shmishra00111@gmail.com)
-* 🧠  I'm learning Java, Web devlopment ,Html ,Css , jss ,javascript
+* 🧠  I'm keen interested in Java, Web devlopment ,Html ,Css , jss ,javascript
 * 🤝  I'm open to collaborating on Interesting Project
 
 <a href="https://www.github.com/mishrashreya99" target="_blank" rel="noreferrer"><img
